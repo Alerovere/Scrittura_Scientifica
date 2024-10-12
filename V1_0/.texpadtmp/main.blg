@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[1] Config.pm:310> INFO - Logfile is '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/.texpadtmp/main.blg'
+[58] biber-darwin:340> INFO - === Sat Oct 12, 2024, 16:58:22
+[70] Biber.pm:418> INFO - Reading '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/.texpadtmp/main.bcf'
+[142] Biber.pm:972> INFO - Found 24 citekeys in bib section 0
+[154] Biber.pm:4383> INFO - Processing section 0
+[162] Biber.pm:4574> INFO - Looking for bibtex file '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/rho.bib' for section 0
+[164] bibtex.pm:1713> INFO - LaTeX decoding ...
+[185] bibtex.pm:1518> INFO - Found BibTeX data source '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/rho.bib'
+[357] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[357] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[357] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'it-IT'
+[357] Biber.pm:4209> INFO - No sort tailoring available for locale 'it-IT'
+[393] bbl.pm:654> INFO - Writing '/Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[415] bbl.pm:757> INFO - Output to /Users/alessiorovere/Dropbox/Mac/Documents/GitHub/Scrittura_Scientifica/LaTEX/.texpadtmp/main.bbl
