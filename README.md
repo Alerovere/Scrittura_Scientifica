@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/869538141.svg)](https://doi.org/10.5281/zenodo.13923759)
+[![DOI](https://zenodo.org/badge/869538141.svg)](https://doi.org/10.5281/zenodo.13923758)
 
 # Manuale di scrittura tecnico-scientifica
 La repository contiene i files LaTex (incluso il PDF compilato) di un manuale di scrittura tecnico-scientifica, redatto per studentesse e studenti di laurea triennale / magistrale e di dottorato. L'idea di base del manuale è quella di fornire una serie di indicazioni pratiche per coloro che si apprestano a scrivere una tesi o un articolo scientifico, dando indicazioni sulle buone pratiche in termini di struttura e regole di scrittura, incluso l'utilizzo di strumenti di intelligenza artificiale. Il documento contiene anche indicazioni su come evitare il plagiarismo e il *copyright infringment* nell'utilizzo delle figure, con una breve trattazione sulle licenze creative commons.
