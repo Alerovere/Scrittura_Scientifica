@@ -16,7 +16,18 @@ Per eventuali suggerimenti, commenti e richieste di integrazioni, è possibile l
 
 ## Citazione
 Per citare questo documento può essere usato il seguente codice BibTex, che fa riferimento alla versione più aggiornata della repository su Zenodo.
-- inserire link -
+
+```bibtex
+@misc{alessio_rovere_2024_13923759,
+  author       = {Alessio Rovere},
+  title        = {Manuale di scrittura tecnico-scientifica},
+  month        = oct,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v.1.0},
+  doi          = {10.5281/zenodo.13923759},
+  url          = {https://doi.org/10.5281/zenodo.13923759}}
+```
 
 ## To do list
 - Inserire Supplementary Table con risorse simili
