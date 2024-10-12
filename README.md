@@ -1,1 +1,1 @@
-# Vademecum di scrittura tecnico-scientifica
+# Manuale di scrittura tecnico-scientifica
