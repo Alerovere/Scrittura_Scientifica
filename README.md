@@ -13,7 +13,11 @@ Per eventuali suggerimenti, commenti e richieste di integrazioni, è possibile l
 
 ## Citazione
 Per citare questo documento può essere usato il seguente codice BibTex, che fa riferimento alla versione più aggiornata della repository su Zenodo.
+- inserire link -
 
+## To do list
+- Inserire Supplementary Table con risorse simili
+- Tradurre il documento in Inglese
 
 **Il documento è fornito con licenza CC BY 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.it)**
 
