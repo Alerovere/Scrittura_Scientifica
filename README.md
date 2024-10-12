@@ -24,7 +24,7 @@ Per citare questo documento può essere usato il seguente codice BibTex, che fa 
   month        = oct,
   year         = 2024,
   publisher    = {Zenodo},
-  version      = {v.1.0},
+  version      = {v.1.1},
   doi          = {10.5281/zenodo.13923759},
   url          = {https://doi.org/10.5281/zenodo.13923759}}
 ```
