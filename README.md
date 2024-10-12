@@ -4,6 +4,9 @@ La repository contiene i files LaTex (incluso il PDF compilato) di un manuale di
 ## Disclaimer
 Per quanto riguarda le sezioni relative al plagio e al copyright, questo documento ha scopo puramente informativo e fornisce consigli generali sull’utilizzo di immagini e contenuti da fonti terze. Non costituisce consulenza legale e non può sostituire il parere di un professionista legale qualificato. Per questioni specifiche relative a copyright, licenze e utilizzo di materiale protetto, si consiglia di consultare un avvocato o un esperto legale specializzato in proprietà intellettuale.
 
+## Versioni
+Versione 1.0 - Se
+
 ## Suggerimenti
 Per eventuali suggerimenti, commenti e richieste di integrazioni, è possibile lasciare un commento nella sezione "issues" su GitHub.
 
